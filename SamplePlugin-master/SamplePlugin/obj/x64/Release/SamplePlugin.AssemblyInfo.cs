@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamplePlugin")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Detects Kefka mechanic resolutions (Ice/Thunder/Fire, Real/Fake) and tracks Mana " +
     "Charge element."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.0.1")]

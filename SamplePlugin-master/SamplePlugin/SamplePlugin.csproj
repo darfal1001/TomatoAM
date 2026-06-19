@@ -5,10 +5,17 @@
     <PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <IsPackable>false</IsPackable>
+
+    <!-- Required Dalamud plugin manifest fields -->
+    <Name>TomatoDoesAM</Name>
+    <Author>Darfal</Author>
+    <Description>Detects Kefka mechanic resolutions (Ice/Thunder/Fire, Real/Fake) and tracks Mana Charge element.</Description>
+    <Punchline>Never guess Kefka's next move again.</Punchline>
+    <InternalName>SamplePlugin</InternalName>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="..\Data\goat.png">
+    <Content Include="..\Data\icon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <Visible>false</Visible>
     </Content>

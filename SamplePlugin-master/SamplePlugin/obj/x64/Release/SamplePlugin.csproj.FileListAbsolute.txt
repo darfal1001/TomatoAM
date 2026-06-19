@@ -1,0 +1,9 @@
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Release/icon.png
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Release/SamplePlugin.deps.json
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Release/SamplePlugin.dll
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Release/SamplePlugin.csproj.AssemblyReference.cache
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Release/SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Release/SamplePlugin.AssemblyInfoInputs.cache
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Release/SamplePlugin.AssemblyInfo.cs
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Release/SamplePlugin.csproj.CoreCompileInputs.cache
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Release/SamplePlugin.dll

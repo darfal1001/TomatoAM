@@ -1,4 +1,3 @@
-/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Debug/goat.png
 /home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Debug/SamplePlugin.deps.json
 /home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Debug/SamplePlugin.dll
 /home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Debug/SamplePlugin.csproj.AssemblyReference.cache
@@ -7,3 +6,4 @@
 /home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Debug/SamplePlugin.AssemblyInfo.cs
 /home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Debug/SamplePlugin.csproj.CoreCompileInputs.cache
 /home/darfal/Downloads/SamplePlugin-master/SamplePlugin/obj/x64/Debug/SamplePlugin.dll
+/home/darfal/Downloads/SamplePlugin-master/SamplePlugin/bin/x64/Debug/icon.png
