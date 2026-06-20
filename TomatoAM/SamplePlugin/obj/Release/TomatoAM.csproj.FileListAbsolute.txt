@@ -1,0 +1,9 @@
+/home/darfal/Downloads/TomatoAM/SamplePlugin/bin/Release/Data/icon.png
+/home/darfal/Downloads/TomatoAM/SamplePlugin/bin/Release/TomatoAM.deps.json
+/home/darfal/Downloads/TomatoAM/SamplePlugin/bin/Release/TomatoAM.dll
+/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.csproj.AssemblyReference.cache
+/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.GeneratedMSBuildEditorConfig.editorconfig
+/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.AssemblyInfoInputs.cache
+/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.AssemblyInfo.cs
+/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.csproj.CoreCompileInputs.cache
+/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYVInwOg7bU=",
+  "success": true,
+  "projectFilePath": "/home/darfal/Downloads/TomatoAM/SamplePlugin/TomatoAM.csproj",
+  "expectedPackageFiles": [
+    "/home/darfal/.nuget/packages/dalamudpackager/15.0.0/dalamudpackager.15.0.0.nupkg.sha512",
+    "/home/darfal/.nuget/packages/dotnet.reproduciblebuilds/1.2.39/dotnet.reproduciblebuilds.1.2.39.nupkg.sha512",
+    "/home/darfal/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

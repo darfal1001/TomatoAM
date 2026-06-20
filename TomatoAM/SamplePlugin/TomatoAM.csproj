@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.0.1</Version>
+    <PackageProjectUrl>https://github.com/darfal1001/TomatoAM</PackageProjectUrl>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+    <Name>TomatoDoesAM</Name>
+    <Author>Darfal</Author>
+    <Description>Detects Kefka mechanic resolutions.</Description>
+    <Punchline>l.</Punchline>
+    <InternalName>TomatoDoesAM</InternalName>
+    <IconUrl>Data/icon.png</IconUrl>
+    <PathMap>$(MSBuildProjectDirectory)=.</PathMap>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Data\icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

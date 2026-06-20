@@ -1,0 +1,17 @@
+{
+  "Author": "Darfal",
+  "Name": "TomatoAM",
+  "InternalName": "TomatoAM",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "UMAD AM.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/darfal1001/TomatoAM/tree/main",
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+  "Punchline": "UMAD AM",
+  "AcceptsFeedback": true
+}
