@@ -7,7 +7,7 @@
     "Description": "UMAD AM.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/darfal1001/TomatoAM",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.2".
     "DalamudApiLevel": 15,
     "IsHide": false,
     "DownloadCount": 0,
