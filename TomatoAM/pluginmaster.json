@@ -7,7 +7,7 @@
     "Description": "Detects Kefka mechanic resolutions (Ice/Thunder/Fire, Real/Fake) and tracks Mana Charge element.",
     "Punchline": "Never guess Kefka's next move again.",
     "RepoUrl": "https://github.com/darfal1001/TomatoAM",
-    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/latest.zip",

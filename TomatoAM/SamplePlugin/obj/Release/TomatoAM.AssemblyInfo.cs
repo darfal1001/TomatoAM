@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Detects Kefka mechanic resolutions.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.2")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.2+e7c17266001de1ca6f4f2300ee5ba4eca5592635")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.2+4dc05ebb4b56cb03313464cbd99c4623e8083f0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TomatoAM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TomatoAM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.2")]
