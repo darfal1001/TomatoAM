@@ -1,12 +1,14 @@
-{
-  "Author": "Darfal",
-  "Name": "TomatoAM",
-  "InternalName": "TomatoAM",
-  "Punchline": "UMAD AM",
-  "Description": "UMAD AM.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/darfal1001/TomatoAM/tree/main",
-  "DalamudApiLevel": 15,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png"
-}
+[
+  {
+    "Author": "Darfal",
+    "Name": "TomatoAM",
+    "InternalName": "TomatoAM",
+    "Punchline": "UMAD AM",
+    "Description": "UMAD AM.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/darfal1001/TomatoAM/tree/main",
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png"
+  }
+]
