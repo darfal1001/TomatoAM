@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SamplePlugin;
+namespace TomatoAM;
 
 
 public partial class KefkaTF

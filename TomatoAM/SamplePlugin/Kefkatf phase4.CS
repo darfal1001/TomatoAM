@@ -9,7 +9,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace SamplePlugin;
+namespace TomatoAM;
 
 
 public partial class KefkaTF

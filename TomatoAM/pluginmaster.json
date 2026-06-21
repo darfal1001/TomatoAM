@@ -1,20 +1,20 @@
 [
   {
     "Author": "Darfal",
-    "Name": "TomatoAM",
-    "InternalName": "TomatoAM",
-    "Punchline": "UMAD AM",
-    "Description": "UMAD AM.",
-    "ApplicableVersion": "any",
+    "Name": "TomatoDoesAM",
+    "InternalName": "SamplePlugin",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Detects Kefka mechanic resolutions (Ice/Thunder/Fire, Real/Fake) and tracks Mana Charge element.",
+    "Punchline": "Never guess Kefka's next move again.",
     "RepoUrl": "https://github.com/darfal1001/TomatoAM",
-    "AssemblyVersion": "1.0.0.2".
-    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/releases/latest.zip",
+    "ApplicableVersion": "any",
+    "Tags": [ "mechanic", "raid", "kefka" ],
+    "DalamudApiLevel": 12,
     "IsHide": false,
-    "DownloadCount": 0,
-    "LastUpdate": 1782000000,
-    "DownloadLinkInstall": "https://github.com/darfal1001/TomatoAM/releases/download/release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/darfal1001/TomatoAM/releases/download/release/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png"
+    "IsTestingExclusive": false
   }
 ]

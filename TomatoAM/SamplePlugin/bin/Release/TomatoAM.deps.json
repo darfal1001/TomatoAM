@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "TomatoAM/0.0.0.1": {
+      "TomatoAM/1.0.0.2": {
         "runtime": {
           "TomatoAM.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "TomatoAM/0.0.0.1": {
+    "TomatoAM/1.0.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

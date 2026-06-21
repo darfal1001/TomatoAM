@@ -7,3 +7,13 @@
 /home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.AssemblyInfo.cs
 /home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.csproj.CoreCompileInputs.cache
 /home/darfal/Downloads/TomatoAM/SamplePlugin/obj/Release/TomatoAM.dll
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/bin/Release/Data/icon.png
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/bin/Release/TomatoAM.deps.json
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/bin/Release/TomatoAM.dll
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.csproj.AssemblyReference.cache
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.GeneratedMSBuildEditorConfig.editorconfig
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.AssemblyInfoInputs.cache
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.AssemblyInfo.cs
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.csproj.CoreCompileInputs.cache
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.sourcelink.json
+/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/Release/TomatoAM.dll

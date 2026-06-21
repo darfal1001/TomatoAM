@@ -7,7 +7,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace SamplePlugin;
+namespace TomatoAM;
 
 public unsafe class CrustLogicSim : IDisposable
 {

@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace SamplePlugin;
+namespace TomatoAM;
 
 
 public partial class KefkaTF

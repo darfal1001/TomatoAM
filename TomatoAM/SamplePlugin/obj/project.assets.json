@@ -75,13 +75,13 @@
     "/home/darfal/.nuget/packages/": {}
   },
   "project": {
-    "version": "0.0.0.1",
+    "version": "1.0.0.2",
     "restore": {
-      "projectUniqueName": "/home/darfal/Downloads/TomatoAM/SamplePlugin/TomatoAM.csproj",
+      "projectUniqueName": "/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/TomatoAM.csproj",
       "projectName": "TomatoAM",
-      "projectPath": "/home/darfal/Downloads/TomatoAM/SamplePlugin/TomatoAM.csproj",
+      "projectPath": "/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/TomatoAM.csproj",
       "packagesPath": "/home/darfal/.nuget/packages/",
-      "outputPath": "/home/darfal/Downloads/TomatoAM/SamplePlugin/obj/",
+      "outputPath": "/home/darfal/Desktop/gitclone/TomatoAM/TomatoAM/SamplePlugin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/darfal/.nuget/NuGet/NuGet.Config"
