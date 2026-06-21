@@ -2,7 +2,7 @@
   {
     "Author": "Darfal",
     "Name": "TomatoDoesAM",
-    "InternalName": "SamplePlugin",
+    "InternalName": "TomatoDoesAM",
     "AssemblyVersion": "0.0.0.1",
     "Description": "Detects Kefka mechanic resolutions (Ice/Thunder/Fire, Real/Fake) and tracks Mana Charge element.",
     "Punchline": "Never guess Kefka's next move again.",
