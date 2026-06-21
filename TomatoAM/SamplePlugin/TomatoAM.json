@@ -10,14 +10,17 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/darfal1001/TomatoAM",
     "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png",
+
     "DownloadLinkInstall": "https://github.com/darfal1001/TomatoAM/releases/download/release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/darfal1001/TomatoAM/releases/download/release/latest.zip",
     "DownloadLinkTesting": "https://github.com/darfal1001/TomatoAM/releases/download/release/latest.zip",
+
     "Tags": [
       "mechanic",
       "raid",
       "kefka"
     ],
+
     "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
