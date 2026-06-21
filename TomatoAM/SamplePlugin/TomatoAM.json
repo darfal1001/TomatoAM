@@ -3,12 +3,24 @@
     "Author": "Darfal",
     "Name": "TomatoAM",
     "InternalName": "TomatoAM",
+    "AssemblyName": "TomatoAM.dll",
+    "AssemblyVersion": "1.0.0.0",
     "Punchline": "UMAD AM",
     "Description": "UMAD AM.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/darfal1001/TomatoAM",
+    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png",
+    "DownloadLinkInstall": "https://github.com/darfal1001/TomatoAM/releases/latest/download/TomatoAM.zip",
+    "DownloadLinkUpdate": "https://github.com/darfal1001/TomatoAM/releases/latest/download/TomatoAM.zip",
+    "DownloadLinkTesting": "https://github.com/darfal1001/TomatoAM/releases/latest/download/TomatoAM.zip",
+    "Tags": [
+      "mechanic",
+      "raid",
+      "kefka"
+    ],
     "DalamudApiLevel": 15,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/darfal1001/TomatoAM/main/TomatoAM/releases/icon.png"
+    "IsTestingExclusive": false,
+    "IsHide": false
   }
 ]
