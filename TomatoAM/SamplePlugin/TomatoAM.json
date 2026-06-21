@@ -4,7 +4,7 @@
     "Name": "TomatoAM",
     "InternalName": "TomatoAM",
     "AssemblyName": "TomatoAM.dll",
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "1.0.0.2",
     "Punchline": "UMAD AM",
     "Description": "UMAD AM.",
     "ApplicableVersion": "any",
