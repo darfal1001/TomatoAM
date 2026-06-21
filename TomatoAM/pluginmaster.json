@@ -4,7 +4,7 @@
     "Name": "TomatoDoesAM",
     "InternalName": "TomatoDoesAM",
     "AssemblyName": "TomatoDoesAM.dll",
-    "AssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "Detects Kefka mechanic resolutions (Ice/Thunder/Fire, Real/Fake) and tracks Mana Charge element.",
     "Punchline": "Never guess Kefka's next move again.",
     "RepoUrl": "https://github.com/darfal1001/TomatoAM",
